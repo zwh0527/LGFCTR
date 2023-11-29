@@ -15,7 +15,7 @@ Download and unzip MegaDepth indices following [LoFTR](https://github.com/zju3dv
 Symlink the datasets and indices to the `data` directory following [LoFTR](https://github.com/zju3dv/LoFTR/blob/master/docs/TRAINING.md#build-the-dataset-symlinks)
 
 ### Pretrained model
-The model weights will be available soon.
+We provide the outdoor weights of LGFCTR in the [Google Drive](https://drive.google.com/file/d/12LhdHNXzY-xtwpZNcTEKev__lZWk7ADh/view?usp=drive_link) .
 
 ## Requirements
 ### Following LoFTR

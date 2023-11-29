@@ -28,7 +28,7 @@ if __name__ == '__main__':
     parser.add_argument('--is_original', type=bool, default=False,
                         help='whether output original image')
     parser.add_argument('--ckpt_path', type=str,
-                        default="weights/model.ckpt")
+                        default="../weights/LGFCTR_outdoor.ckpt")
     parser.add_argument('--main_cfg_path', type=str,
                         default='../configs/lgfctr/outdoor/lgfctr_ds_eval.py',
                         help='main config path')

@@ -8,7 +8,7 @@ cd $PROJECT_DIR
 
 data_cfg_path="configs/data/megadepth_test_1500.py"
 main_cfg_path="configs/lgfctr/outdoor/lgfctr_ds_eval.py"
-ckpt_path="weights/model.ckpt"
+ckpt_path="weights/LGFCTR_outdoor.ckpt"
 dump_dir="dump/lgfctr_ds_outdoor"
 profiler_name="inference"
 n_nodes=1  # mannually keep this the same with --nodes
