@@ -60,6 +60,7 @@ python vis_attention.py
 <img src="assets/MSA.png" width="100%" height="100%">
 
 ## Citation
-This repository is heavily borrowed from [LoFTR](https://github.com/zju3dv/LoFTR), and we are grateful for their implementations.
+This repository was developed from [LoFTR](https://github.com/zju3dv/LoFTR), and we are grateful for their implementations.
 
+## Citation
 If you find this code useful for your research, please use the following BibTeX entry.
