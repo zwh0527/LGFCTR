@@ -1,0 +1,13 @@
+name: lgfctr
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - cudatoolkit=11.1
+  - pytorch=1.9.1
+  - torchvision=0.10.1
+  - pip
+  - pip:
+      - -r requirements.txt
