@@ -59,7 +59,7 @@ python vis_attention.py
 ```
 <img src="assets/MSA.png" width="100%" height="100%">
 
-## Citation
+## Acknowledgements
 This repository was developed from [LoFTR](https://github.com/zju3dv/LoFTR), and we are grateful for their implementations.
 
 ## Citation
