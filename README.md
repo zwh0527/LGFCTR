@@ -64,3 +64,11 @@ This repository was developed from [LoFTR](https://github.com/zju3dv/LoFTR), and
 
 ## Citation
 If you find this code useful for your research, please use the following BibTeX entry.
+```
+@article{zhong2023lgfctr,
+  title={LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching},
+  author={Zhong, Wenhao and Jiang, Jie},
+  journal={arXiv preprint arXiv:2311.17571},
+  year={2023}
+}
+```
